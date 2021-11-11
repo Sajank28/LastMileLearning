@@ -1,1 +1,17 @@
-Git basics
+Git basics commands
+
+git --version
+
+git help config
+
+git init
+
+git status
+
+git commit -m "This is a test file which contains all git codes"
+
+git config --global user.username Sajank28
+
+git remote add origin https://github.com/Sajank28/LastMileLearning.git
+
+git push origin master
